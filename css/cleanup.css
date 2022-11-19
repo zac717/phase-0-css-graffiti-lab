@@ -1,1 +1,31 @@
 /* write your override styles here */
+p{
+    background-color: aqua;
+    background-size: auto;
+d
+    background-attachment: local;
+    background: none;
+}
+sub{
+    background-color: azure;
+    background-size: auto;
+    background: fixed;
+    font-size: larger;
+    font-style: oblique;
+    font-weight: 200;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+sup{
+    background-color: antiquewhite;
+    background: none;
+    background-size: contain;
+}
+
+
+
+
+
+
+
+
